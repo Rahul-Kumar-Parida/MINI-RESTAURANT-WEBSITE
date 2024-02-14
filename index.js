@@ -73,11 +73,17 @@ document.querySelector(".save").addEventListener("click", function () {
 
 document.querySelector(".reset").addEventListener("click", function () {
   dosa.textContent = " " + " " + 0;
+  dosa1 =0;
   samosa.textContent = " " + " " + 0;
+  samosa1 =0;
   idly.textContent = " " + " " + 0;
+  idly1 =0;
   bara.textContent = " " + " " + 0;
+  bara1=0;
   aluchop.textContent = " " + " " + 0;
+  aluchop1 =0;
   upama.textContent = " " + " " + 0;
+  upama1=0;
   namee.value = " ";
   address.value = " ";
   phone.value = " ";
